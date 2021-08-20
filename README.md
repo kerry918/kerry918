@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineering+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
   
-<h1>About Me! 😎</h1>
+<h1>About Me 😎</h1>
 🏫 I'm a second year Mechatronics Engineering student at the University of Waterloo <br />
 📚 I’m interested in Software Developement and Machine Learning<br />
 🌱 Continuous learning different frontend and backend frameworks <br />
