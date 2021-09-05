@@ -45,7 +45,7 @@
 --- 
   
 <h1>Work Experience and Involvements 💡</h1>
-  Incoming <em>Full Stack Developer Intern</em> @ <a href="https://www.voiceflow.com/"> Voiceflow </a> <br />
+  <em>Full Stack Developer Intern</em> @ <a href="https://www.voiceflow.com/"> Voiceflow </a> <br />
   <em>Frontend Team Lead</em> @ <a href="https://www.techplusuw.org/"> Tech+ UW </a><br />
   <em>Frontend Engineer</em> @ <a href="https://globalspark.world/#/"> Global Spark </a><br />
   <em>Software Developer</em> @ <a href="https://uwaterloo.ewb.ca/en/"> Engineers Without Borders Canada </a><br />
@@ -73,4 +73,4 @@
 <br/> 
 <br/> 
 <br/> 
-Last Edited on: Aug 30 2021 💗
+Last Edited on: September 4 2021 💗
