@@ -52,7 +52,7 @@
   <em>Full Stack Developer Intern</em> @ <a href="https://www.voiceflow.com/"> Voiceflow </a> <br />
   <em>Frontend Team Lead</em> @ <a href="https://www.techplusuw.org/"> Tech+ UW </a><br />
   <em>Frontend Engineer</em> @ <a href="https://globalspark.world/#/"> Global Spark </a><br />
-  <em>Software Developer</em> @ <a href="https://uwaterloo.ewb.ca/en/"> Engineers Without Borders Canada </a><br />
+  Previous <em>Software Developer</em> @ <a href="https://uwaterloo.ewb.ca/en/"> Engineers Without Borders Canada </a><br />
   Previous <em>Software Developer and Tester Intern</em> @ <a href="https://www.windriver.com/"> Wind River </a> (VxWorks) <br />
   Previous <em>Full Stack Developer Intern</em> @ Qontori Pte Ltd <br />
   
@@ -77,4 +77,4 @@
 <br/> 
 <br/> 
 <br/> 
-Last Edited on: September 4 2021 💗
+Last Edited on: October 14 2021 💗
