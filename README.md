@@ -4,7 +4,7 @@
 </p>
   
 <h1>About Me 😎</h1>
-🏫 I'm a second year Mechatronics Engineering student at the University of Waterloo <br />
+🏫 I'm a third year Mechatronics Engineering (Option in Software Engineering) student at the University of Waterloo <br /> 
 📚 I’m interested in Software Developement and Machine Learning<br />
 🌱 Continuous learning different frontend and backend frameworks <br />
 😄 Pronouns: She/Her/Hers <br />
@@ -79,4 +79,4 @@
 <br/> 
 <br/> 
 <br/> 
-Last Edited on: October 14 2021 💗
+Last Edited on: December 06 2021 💗
