@@ -48,16 +48,17 @@
 
   
   
---- 
+<!-- --- 
   
 <h1>Work Experience and Involvements 💡</h1>
-  <em>Frontend Team Lead</em> @ <a href="https://www.techplusuw.org/"> Tech+ UW </a><br />
-  <em>Frontend Engineer</em> @ <a href="https://globalspark.world/#/"> Global Spark </a><br />
-  Previous <em>Full Stack Developer Intern</em> @ <a href="https://www.voiceflow.com/"> Voiceflow </a> (Creator Team) <br />
-  Previous <em>Software Developer</em> @ <a href="https://uwaterloo.ewb.ca/en/"> Engineers Without Borders Canada </a><br />
-  Previous <em>Software Developer and Tester Intern</em> @ <a href="https://www.windriver.com/"> Wind River </a> (VxWorks) <br />
-  Previous <em>Full Stack Developer Intern</em> @ Qontori Pte Ltd <br />
-  
+  <em>Frontend Engineer</em> @ <a href="https://globalspark.world/#/"> Global Spark </a>  ---  Apr 2021 - Present <br />
+  <em>Full Stack Developer Intern</em> @ <a href="https://www.voiceflow.com/"> Voiceflow </a> (Creator Team)  ---  Sep 2021 - Dec 2021 <br />
+  <em>Frontend Team Lead</em> @ <a href="https://www.techplusuw.org/"> Tech+ UW </a>  ---  Aug 2021 - Dec 2021<br />
+  <em>Full Stack Developer</em> @ <a href="https://www.techplusuw.org/"> Tech+ UW </a>  ---  Aug 2020 - Aug 2021<br />
+  <em>Software Developer</em> @ <a href="https://uwaterloo.ewb.ca/en/"> Engineers Without Borders Canada </a>  ---  May 2021 - Sep 2021 <br />
+  <em>Software Developer and Tester Intern</em> @ <a href="https://www.windriver.com/"> Wind River </a> (VxWorks)  ---  Jan 2021 - Apr 2021 <br />
+  <em>Full Stack Developer Intern</em> @ Qontori Pte Ltd  ---  Jun 2020 - Sep 2020 <br />
+   -->
   
 --- 
 <h1>Github Stats 📊</h1>
