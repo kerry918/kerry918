@@ -9,7 +9,7 @@
 💻 I've previously interned at <a href="https://www.voiceflow.com/"> Voiceflow</a>, <a href="https://www.windriver.com/"> Wind River</a>, and Qontori Pte Ltd <br/>
 🌱 Continuous learning different frontend and backend frameworks <br />
 😄 Pronouns: She/Her/Hers <br />
-⚡ Fun fact: I can solve more than ten different kinds of Rubik's Cubes 🧠 <br />
+<!-- ⚡ Fun fact: I can solve more than ten different kinds of Rubik's Cubes 🧠 <br /> -->
 
 ---
 <h1>Skills 🔧</h1>
