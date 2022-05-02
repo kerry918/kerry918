@@ -11,7 +11,7 @@
 😄 Pronouns: She/Her/Hers <br />
 <!-- ⚡ Fun fact: I can solve more than ten different kinds of Rubik's Cubes 🧠 <br /> -->
 
----
+<!-- ---
 <h1>Skills 🔧</h1>
 <h3>Programming Languages 💻</h3>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -44,7 +44,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code> -->
   
 
   
@@ -67,7 +67,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerry918&count_private=false&theme=radical" alt="Jas-Script" />
 
   
----
+<!-- ---
   
 <h1>Connect With Me 🔗</h1>
 
@@ -76,9 +76,9 @@
 <a href="https://devpost.com/kerry918"><img src="https://img.shields.io/badge/-kerry918-13888a?style=for-the-badge&logo=devpost&logoColor=white"/></a>
 <a href="mailto:k269liu@uwaterloo.ca"><img src="https://img.shields.io/badge/-k269liu@uwaterloo.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/kerryliu918/"><img src="https://img.shields.io/badge/-kerryliu918-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+</p> -->
   
 <br/> 
 <br/> 
 <br/> 
-Last Edited on: December 17 2021 💗
+<!-- Last Edited on: December 17 2021 💗 -->
