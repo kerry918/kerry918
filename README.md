@@ -77,8 +77,5 @@
 <a href="mailto:k269liu@uwaterloo.ca"><img src="https://img.shields.io/badge/-k269liu@uwaterloo.ca-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/kerryliu918/"><img src="https://img.shields.io/badge/-kerryliu918-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p> -->
-  
-<br/> 
-<br/> 
-<br/> 
+
 <!-- Last Edited on: December 17 2021 💗 -->
