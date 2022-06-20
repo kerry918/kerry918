@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Mechatronics+Engineering+Student;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=400&height=50">
 </p>
   
-<h1>About Me 😎</h1>
+<h2>About Me </h2>
 🏫 I'm a third year Mechatronics Engineering (Option in Software Engineering) student at the University of Waterloo <br /> 
 📚 I’m interested in Software Developement and Machine Learning<br />
 💻 I'm currently interning at <a href="https://www.paywithextend.com/"> Extend</a> and I've previously interned at <a href="https://www.voiceflow.com/"> Voiceflow</a>, <a href="https://www.windriver.com/"> Wind River</a>, and Qontori Pte Ltd <br/>
@@ -61,8 +61,8 @@
   <em>Full Stack Developer Intern</em> @ Qontori Pte Ltd  ---  Jun 2020 - Sep 2020 <br />
    -->
   
---- 
-<h1>Github Stats 📊</h1>
+<!-- ---  -->
+<h2>Github Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=kerry918&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Kerry's GitHub Stats"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerry918&count_private=false&theme=radical" alt="Jas-Script" />
 
