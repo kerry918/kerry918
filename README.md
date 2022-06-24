@@ -60,10 +60,10 @@
   <em>Software Developer and Tester Intern</em> @ <a href="https://www.windriver.com/"> Wind River </a> (VxWorks)  ---  Jan 2021 - Apr 2021 <br />
   <em>Full Stack Developer Intern</em> @ Qontori Pte Ltd  ---  Jun 2020 - Sep 2020 <br />
    -->
-  
+<br/>
 <!-- ---  -->
-<h2>Github Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=kerry918&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Kerry's GitHub Stats"> 
+<!-- <h2>Github Stats </h2> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kerry918&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Kerry's GitHub Stats">  -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerry918&count_private=false&theme=radical" alt="Jas-Script" />
 
   
