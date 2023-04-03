@@ -6,7 +6,7 @@
 <h2>About Me </h2>
 🏫 I'm a third year Mechatronics Engineering (Option in Software Engineering) student at the University of Waterloo <br /> 
 📚 I’m interested in Software Developement and Machine Learning<br />
-💻 I'm currently interning at <a href="https://www.paywithextend.com/"> Extend</a> and I've previously interned at <a href="https://www.voiceflow.com/"> Voiceflow</a>, <a href="https://www.windriver.com/"> Wind River</a>, and Qontori Pte Ltd <br/>
+💻 I've previously interned at <a href="https://www.paywithextend.com/"> Extend</a>, <a href="https://www.voiceflow.com/"> Voiceflow</a>, <a href="https://www.windriver.com/"> Wind River</a>, and Qontori Pte Ltd <br/>
 🌱 Continuous learning different frontend and backend frameworks <br />
 😄 Pronouns: She/Her/Hers <br />
 <!-- ⚡ Fun fact: I can solve more than ten different kinds of Rubik's Cubes 🧠 <br /> -->
@@ -80,4 +80,4 @@
 <a href="https://www.instagram.com/kerryliu918/"><img src="https://img.shields.io/badge/-kerryliu918-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p> -->
 
-<!-- Last Edited on: December 17 2021 💗 -->
+<!-- Last Edited on: April 3, 2024 💗 -->
