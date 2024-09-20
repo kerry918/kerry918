@@ -4,7 +4,8 @@
 </p>
   
 <h2>About Me </h2>
-🏫 I'm currently an MScAC student (CS Concentration) at the University of Toronto. Graduated from University of Waterloo in Mechatronics Engineering (Option in Software Engineering) <br /> 
+🏫 I'm currently an MScAC student (CS Concentration) at the University of Toronto <br /> 
+🎓 Graduated from University of Waterloo in Mechatronics Engineering (Option in Software Engineering) <br /> 
 📚 I’m interested in Software Developement and Machine Learning<br />
 💻 I've previously interned at <a href="https://www.getcensus.com/"> Census</a>, <a href="https://www.paywithextend.com/"> Extend</a>, <a href="https://www.voiceflow.com/"> Voiceflow</a>, <a href="https://www.windriver.com/"> Wind River</a>, and Qontori Pte Ltd <br/>
 <!-- 🌱 Continuous learning different frontend and backend frameworks <br /> -->
